@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "account_email": "you@domain.com",
+    "contact_email": "contact@domain.com",
+    "phone": "9876543210",
+    "address": "MG Road, Bengaluru",
+    "title": "Premium services and solutions",
+    "desc": "This listing/news post outlines our offerings, customer value, service scope, and support. It is kept long enough to satisfy typical minimum description requirements and avoids adding hyperlinks in places where they may be rejected. We focus on reliability, responsiveness, and clarity so readers can make informed decisions. Additional updates will be shared as needed.",
+    "location_value": "102",
+    "tags": ["best", "top", "trusted"]
+  },
+  "sites": {
+    "directorynode.com": {
+      "category_value": "21"
+    },
+    "a2zsocialnews.com": {
+      "category_value": "1"
+    },
+    "freelistinguk.com": {
+    "account_email": "ayushduduskar1919@gmail.com",
+    "contact_email": "ayushduduskar1919@gmail.com",
+    "title": "Example Co. – Premium Services",
+    "address_line": "221B Baker Street",
+    "country_uk": "United Kingdom",
+    "city": "London",
+    "desc": "We provide affordable, reliable services nationwide. Visit our site for offers.",
+    "tags": ["services", "uk", "quality", "support"]
+    }
+  }
+}

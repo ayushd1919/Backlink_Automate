@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+artifacts/
+screenshots/
+.env
+playwright/.cache/

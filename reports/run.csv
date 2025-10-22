@@ -1,0 +1,45 @@
+2025-10-19T15:10:54.539515,freelistinguk.com,register,submitted,you@domain.com
+2025-10-20T09:09:50.229718,freelistinguk.com,register,submitted,ayushduduskar2004@gmail.com
+2025-10-20T09:09:50.230718,freelistinguk.com,email,imap_unavailable,IMAP connect/login failed: Missing MAIL_* settings (host/port/user/pass).
+2025-10-20T09:15:19.785488,freelistinguk.com,register,submitted,ayushduduskar2004@gmail.com
+2025-10-20T09:15:19.786486,freelistinguk.com,email,imap_unavailable,IMAP connect/login failed: Missing MAIL_* settings (host/port/user/pass).
+2025-10-20T09:34:24.671766,freelistinguk.com,register,exists,ayushduduskar2004/ayushduduskar2004@gmail.com
+2025-10-20T09:41:48.002292,freelistinguk.com,artifacts,no_saved_creds,ayushgraphics19@gmail.com
+2025-10-20T09:42:43.336649,freelistinguk.com,register,submitted,ayushgraphics19@gmail.com
+2025-10-20T09:47:41.663362,freelistinguk.com,artifacts,no_saved_creds,ayushgraphics19@gmail.com
+2025-10-20T09:49:11.670663,freelistinguk.com,register,exists,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T09:54:06.777940,freelistinguk.com,artifacts,no_saved_creds,ayushgraphics19@gmail.com
+2025-10-20T09:54:34.126215,freelistinguk.com,login,attempt,ayushgraphics19@gmail.com (user=ayushgraphics19)
+2025-10-20T09:54:50.562734,freelistinguk.com,register,exists,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T10:29:07.959438,bizidex.com,artifacts,no_saved_creds,ayushgraphics19@gmail.com
+2025-10-20T10:29:11.159944,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T10:29:11.159944,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T10:29:42.914131,bizidex.com,listing,published,https://bizidex.com/login?callbackUrl=https://bizidex.com/account-profile/listing/new&error=undefined
+2025-10-20T10:31:04.379816,bizidex.com,artifacts,loaded_creds,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T10:31:07.582097,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T10:31:07.582097,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T10:31:39.346427,bizidex.com,listing,published,https://bizidex.com/login?callbackUrl=https://bizidex.com/account-profile/listing/new&error=undefined
+2025-10-20T10:37:07.400314,bizidex.com,artifacts,loaded_creds,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T10:37:11.176366,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T10:37:11.176366,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T10:37:34.733621,bizidex.com,artifacts,loaded_creds,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T10:37:37.967118,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T10:37:37.967118,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T11:08:50.855950,bizidex.com,artifacts,loaded_creds,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T11:08:55.708778,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T11:08:55.708778,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T11:14:38.827609,bizidex.com,artifacts,loaded_creds,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T11:14:41.980403,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T11:14:41.980970,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T11:19:45.069120,bizidex.com,artifacts,loaded_creds,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T11:19:50.937547,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T11:19:50.937547,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T11:28:39.852970,bizidex.com,artifacts,loaded_creds,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T11:28:44.585253,bizidex.com,artifacts,saved_creds,artifacts\bizidex\ayushgraphics19@gmail.com.json
+2025-10-20T11:28:44.586247,bizidex.com,session,already_logged_in,ayushgraphics19@gmail.com
+2025-10-20T17:15:00.515440,freelistinguk.com,artifacts,no_saved_creds,ayushgraphics19@gmail.com
+2025-10-20T17:15:07.250596,freelistinguk.com,login,attempt,ayushgraphics19@gmail.com (user=ayushgraphics19)
+2025-10-20T17:15:26.246577,freelistinguk.com,register,exists,ayushgraphics19/ayushgraphics19@gmail.com
+2025-10-20T17:18:32.128056,freelistinguk.com,artifacts,no_saved_creds,ayushduduskar1919@gmail.com
+2025-10-20T17:19:02.445198,freelistinguk.com,login,attempt,ayushduduskar1919@gmail.com (user=ayushduduskar1919)
+2025-10-20T17:19:34.756470,freelistinguk.com,register,submitted,ayushduduskar1919@gmail.com
